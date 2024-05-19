@@ -60,3 +60,14 @@
 The result of the cross-validation with a batch size of 32 and learning rate was accidentally lost during version management, but we saved the results as a text file, so the model's result is displayed with text.
 
 The result of the 0.5 dropout rate accidentally disappeared during version management, but we saved the result as a text file, so it is shown in the text.
+
+### Task 2
+
+Task 2 model was trained under a smaller dataset instead of the whole dataset. 
+
+### Task 3
+
+Task 3 used pre-tranied model EfficientNetB0 and Nereest Neighbor to execute the task. 
+
+## How to run Task 3
+

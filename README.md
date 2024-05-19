@@ -14,6 +14,26 @@
 
 ## Set up
 
+> conda install numpy
+
+> conda install pandas
+
+> conda install matplotlib
+
+> conda install seaborn
+
+> conda install -c conda-forge opencv # For OpenCV
+
+> conda install -c conda-forge tensorflow
+
+> conda install -c conda-forge keras
+
+> conda install scikit-learn
+
+> conda install -c conda-forge pillow # For PIL
+
+> conda install -c conda-forge tqdm
+
 ### libraries
 
 -   Numpy - A library for numerical computations.
@@ -36,3 +56,7 @@
 ## Known mistakes
 
 ### Task 1
+
+The result of the cross-validation with a batch size of 32 and learning rate was accidentally lost during version management, but we saved the results as a text file, so the model's result is displayed with text.
+
+The result of the 0.5 dropout rate accidentally disappeared during version management, but we saved the result as a text file, so it is shown in the text.
